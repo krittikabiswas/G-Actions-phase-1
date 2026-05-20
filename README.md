@@ -1,10 +1,10 @@
 <div align="left">
 
-# ⚡ GitHub Actions Playground ⚡
+# ⚡  Actions Playground ⚡
 
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="180px" />
 
-### 🚀 I learnt the rubs on GitHub Automation
+### 🚀 I learnt the rubs on Code Automation
 
 <img src="https://img.shields.io/badge/YAML-Learned-blue?style=for-the-badge&logo=yaml&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-Workflow-success?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -14,14 +14,14 @@
 
 ## 🧠 What I Learned
 
-- Created my very first **GitHub Actions workflow**
+- Created my very first ** Actions workflow**
 - Learned how `/workflows/*.yml` files work
 - Understood Jobs, Steps, Event Triggers, Main branch merge workflow
 - Triggered workflows automatically when PRs are opened or changes are pushed and then branches are merged
 
 This repository is my small experiment with:
 
-* GitHub Actions
+* Actions
 * Automation
 * CI/CD basics
 * YAML workflows
